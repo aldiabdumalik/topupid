@@ -54,7 +54,7 @@ export default function TermsConditionPage() {
         <p>These Terms & Conditions are governed by and construed in accordance with the laws of Indonesia. Any disputes arising out of or in connection with these Terms & Conditions shall be subject to the exclusive jurisdiction of the courts of Indonesia.</p>
 
         <h2>11. Contact Us</h2>
-        <p>If you have any questions or concerns about these Terms & Conditions, please contact us at [Contact Information].</p>
+        <p>If you have any questions or concerns about these Terms & Conditions, please contact us at ptkadetech@gmail.com.</p>
       </article>
     </MainLayout>
   )
